@@ -1,9 +1,0 @@
-// requirements.txt
-opencensus-extension-azure-functions
-opencensus-ext-requests
-pandas
-matplotlib
-plotly
-flask
-geopy
-us
